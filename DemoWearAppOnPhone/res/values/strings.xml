@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoWearAppOnPhone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="release_key_msg">Look at your watch.\nThe wear \"DemoWear\" should be installed at your watch.</string>
+    <string name="debug_key_msg">Debug signed detected!\nPlease sign both wear app and this wrapper app with release key.</string>
+
+</resources>

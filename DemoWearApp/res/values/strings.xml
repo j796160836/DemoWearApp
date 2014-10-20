@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoWear</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_square">Hello Square!</string>
+    <string name="hello_round">Hello Round!</string>
+    
+    
+</resources>
