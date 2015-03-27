@@ -19,7 +19,7 @@ function StopIfFail(){
 NSLog "** BUILD wearable-1.0.0 **"
 cd ../wearable-1.0.0
 
-android update project --path .
+android update lib-project --path .
 ant clean release
 StopIfFail
 
